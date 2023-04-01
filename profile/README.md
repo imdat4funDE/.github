@@ -17,9 +17,16 @@ Forum: forum.imdat4fun.de
 ## Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
-
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/1387/1387539.png"></code>
+<code><img height="40" src="https://th.bing.com/th/id/OIP.9qMqWDKOpvD9oRRCel5ksQHaHa?pid=ImgDet&rs=1"></code>
+<code><img height="40" src="https://ithemes.com/wp-content/uploads/2019/02/what-is-phpmyadmin.jpg"></code>
+  
+  
+  
+  
+  
+  
+  
+ 
     
 
