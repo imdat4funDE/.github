@@ -7,10 +7,6 @@ Imdat4Fun is a Minecraft network based on the main game mode CityBuild. We offer
   
 -----
 
-![Discord](https://img.shields.io/discord/910580472025845762?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge)
-
------
-
 ## Languages and Tools:
 
 <p align="left"> 
