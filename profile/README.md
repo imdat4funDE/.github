@@ -1,6 +1,9 @@
 ## IMDAT4FUN CITYBUILD NETZWERK 1.19x
 
-Imdat4Fun ist ein Minecraft Netzwerk, was auf den Haupt-Spielmodus CityBuild basiert. Wir bieten viele extra Features auf unserem Netzwerk, das Netzwerk ist in der Minecraft Version 1.19 und höher erreichbar.
+Hey, we are the development team of the Imdat4Fun network, here you will find some systems, source codes and system translations.
+
+
+Imdat4Fun is a Minecraft network based on the main game mode CityBuild. We offer many extra features on our network, the network is accessible in Minecraft version 1.19 and higher attainable.
   
 -----
 
