@@ -7,6 +7,11 @@ Imdat4Fun is a Minecraft network based on the main game mode CityBuild. We offer
   
 -----
 
+<div align="center">
+
+<code><img height="200" src="https://www2.pic-upload.de/img/37187727/ImdatNetz.png"></code>
+
+------
 ## Languages and Tools:
 
 <p align="left"> 
